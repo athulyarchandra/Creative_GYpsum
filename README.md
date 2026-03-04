@@ -1,16 +1,38 @@
-# React + Vite
+#Creative Gypsum – Interior Work Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Creative Gypsum is a modern and responsive website built for showcasing professional gypsum interior design services, including ceiling works, partition designs, and customized decorative solutions.
 
-Currently, two official plugins are available:
+This project represents a freelance client work focused on clean UI, service presentation, and lead generation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project Overview
 
-## React Compiler
+#Creative Gypsum is an interior work business specializing in:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Gypsum false ceilings
 
-## Expanding the ESLint configuration
+Custom ceiling designs
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Wall partitions
+
+Decorative gypsum elements
+
+Residential & commercial interior works
+
+#The website is designed to:
+
+Showcase completed works
+
+Highlight services
+
+Generate customer inquiries
+
+Build brand trust
+
+#Tech Stack
+
+Frontend: ReactJS
+
+Styling: Responsive Design 
+
+Deployment: Vercel
+
